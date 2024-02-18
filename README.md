@@ -80,4 +80,3 @@ This bot is based on [discord.py](https://github.com/Rapptz/discord.py) and [you
 
 [MIT License](LICENSE)
 
-You can fill in the placeholders with your specific information and customize the README to fit your bot's features and usage instructions.
